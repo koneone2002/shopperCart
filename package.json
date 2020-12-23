@@ -1,0 +1,15 @@
+{
+  "name": "shoppercart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html team.html store.html",
+    "build": "parcel build index.html team.html store.html"
+  },
+  "author": "Katie ONeill <katie@k80oneill.com> (k80oneill.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
